@@ -10,8 +10,9 @@ Tasks I need to do :-
 #### 1 : Within the group of students following activities can be distributed: Collect data about HR FAQs, sources of organizational information related to leaves, holidays, training etc. 
 #### 2 : Select relevant technologies to create an HR Chatbot keeping in mind in
 
-#### Skills Required :-
 
-PROGRAMMING SKILLS
-ARTIFICAL INTELLIGENCE
-MACHINE LEARNING
+Skills Required :-
+
+#### PROGRAMMING SKILLS
+#### ARTIFICAL INTELLIGENCE
+#### MACHINE LEARNING
